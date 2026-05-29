@@ -4,4 +4,5 @@ new
 
 test
 
+new
 """
